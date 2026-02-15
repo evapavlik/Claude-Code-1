@@ -1,0 +1,66 @@
+{
+  "_comment": "Lekcionář nedělních čtení. Klíčem je datum ve formátu YYYY-MM-DD. Rozšiřte dle perikopního řádu CČSH.",
+  "2026-02-15": {
+    "name": "6. neděle po Zjevení Páně",
+    "liturgical_period": "Mezidobí (po Zjevení Páně)",
+    "readings": [
+      {
+        "label": "Starozákonní čtení",
+        "reference": "Jr 17,5-10",
+        "text": "Toto praví Hospodin: „Proklet buď muž, který doufá v člověka, opírá se o pouhé tělo a srdcem se odvrací od Hospodina. Bude jako jalovec v pustině, neokusí přicházejícího dobra. Bude přebývat ve vyprahlém kraji, v poušti, v zemi solných plání, kde nelze bydlet. Požehnán buď muž, který doufá v Hospodina, který důvěřuje Hospodinu. Bude jako strom zasazený u vody; své kořeny zapustil u vodního toku, nezakusí, když přijde vedro. Jeho listí je zelené, v roce sucha se ničeho neobává, nepřestává nést plody." Srdce je lstivé nade vše, je nevyléčitelné. Kdopak mu porozumí? „Já Hospodin zpytuji srdce a zkoumám ledví, já každému splatím podle jeho cesty, podle ovoce jeho skutků.""
+      },
+      {
+        "label": "Epištolní čtení",
+        "reference": "1 K 15,12-20",
+        "text": "Když se tedy zvěstuje o Kristu, že byl vzkříšen, jak mohou někteří mezi vámi říkat, že není zmrtvýchvstání? Není-li zmrtvýchvstání, pak nebyl vzkříšen ani Kristus. A jestliže Kristus nebyl vzkříšen, pak je naše zvěst klamná, a klamná je i vaše víra, a my jsme odhaleni jako lživí svědkové o Bohu: dosvědčili jsme, že Bůh vzkřísil Krista, ale on jej nevzkřísil, není-li vzkříšení z mrtvých. Neboť není-li vzkříšení z mrtvých, nebyl vzkříšen ani Kristus. Nebyl-li však Kristus vzkříšen, je vaše víra marná, ještě jste ve svých hříších, a jsou ztraceni i ti, kteří zesnuli v Kristu. Máme-li naději v Kristu jen pro tento život, jsme nejubožejší ze všech lidí! Avšak Kristus byl vzkříšen jako první z těch, kdo zesnuli."
+      },
+      {
+        "label": "Evangelium",
+        "reference": "L 6,17-26",
+        "text": "Sešel s nimi dolů a na rovině zůstal stát; a s ním veliký zástup učedníků a veliké množství lidu z celého Judska i z Jeruzaléma, z pobřeží týrského a sidónského; přišli, aby ho slyšeli a byli uzdraveni ze svých nemocí. Také ti, kteří byli sužováni nečistými duchy, byli uzdravováni. A každý ze zástupu se ho snažil dotknout, poněvadž z něho vycházela moc a uzdravovala všechny. Ježíš pohlédl na učedníky a řekl: „Blaze vám, chudí, neboť vaše je království Boží. Blaze vám, kdo nyní hladovíte, neboť budete nasyceni. Blaze vám, kdo nyní pláčete, neboť se budete smát. Blaze vám, když vás lidé budou nenávidět a když vás vyloučí, potupí a vymažou vaše jméno jako proklaté pro Syna člověka. Veselte se v ten den a jásejte radostí; hle, máte hojnou odměnu v nebi. Vždyťেতo činili jejich otcové prorokům. Ale běda vám, bohatým, vždyť vám se už potěšení dostalo. Běda vám, kdo jste nyní nasyceni, neboť budete hladovět. Běda, kdo se nyní smějete, neboť budete plakat a naříkat. Běda, když vás budou všichni lidé chválit; vždyť to činili jejich otcové falešným prorokům.""
+      }
+    ]
+  },
+  "2026-02-22": {
+    "name": "7. neděle po Zjevení Páně",
+    "liturgical_period": "Mezidobí (po Zjevení Páně)",
+    "readings": [
+      {
+        "label": "Starozákonní čtení",
+        "reference": "Gn 45,3-11.15",
+        "text": ""
+      },
+      {
+        "label": "Epištolní čtení",
+        "reference": "1 K 15,35-38.42-50",
+        "text": ""
+      },
+      {
+        "label": "Evangelium",
+        "reference": "L 6,27-38",
+        "text": ""
+      }
+    ]
+  },
+  "2026-03-01": {
+    "name": "Poslední neděle po Zjevení Páně (Proměnění Páně)",
+    "liturgical_period": "Mezidobí (po Zjevení Páně)",
+    "readings": [
+      {
+        "label": "Starozákonní čtení",
+        "reference": "Ex 34,29-35",
+        "text": ""
+      },
+      {
+        "label": "Epištolní čtení",
+        "reference": "2 K 3,12-4,2",
+        "text": ""
+      },
+      {
+        "label": "Evangelium",
+        "reference": "L 9,28-36",
+        "text": ""
+      }
+    ]
+  }
+}
